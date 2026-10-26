@@ -1,0 +1,6 @@
+{
+  "name": "Secondbrain Sidecar - Nexus Loop (Atlas · Manjuel · Jesster)",
+  "description": "Desktop side-car cockpit connecting to local Secondbrain MCP, harmonizing Atlas architecture schemas, Manjuel execution pipelines, and Jesster integrity verification suites with a simulation-first self-recursive improvement loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
